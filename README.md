@@ -10,6 +10,26 @@ The Airbnb Clone Project is a full-stack web application designed to replicate t
 - Integrate CI/CD pipelines for efficient and reliable deployment.
 - Document and plan complex software projects effectively.
 
+## Feature Breakdown
+
+- **User Management:**  
+  Enables users to register, authenticate, and manage their profiles securely. This feature ensures that only authorized users can access the platform, protecting personal information and allowing users to view and manage their bookings and listings.
+
+- **Property Management:**  
+  Allows hosts to create, update, and manage property listings, including details such as descriptions, photos, pricing, and availability. This empowers hosts to control their rental offerings and helps build a diverse and attractive marketplace for guests.
+
+- **Booking System:**  
+  Lets users search for available properties, make reservations, and manage their bookings. This streamlines the reservation process for both guests and hosts, handling availability, payment processing, and booking confirmations efficiently.
+
+- **Search and Filtering:**  
+  Provides advanced search capabilities, enabling users to filter properties by location, price, amenities, and dates. This helps guests quickly find listings that match their preferences, improving the overall user experience.
+
+- **Review and Rating System:**  
+  Allows guests to leave reviews and ratings for properties and hosts after their stay. This builds trust within the community, encourages high standards, and helps future guests make informed decisions.
+
+- **Payment Integration:**  
+  Facilitates secure online payments for bookings, supporting multiple payment methods. This ensures smooth and safe financial transactions between guests and hosts, enhancing reliability and trust in the platform.
+
 ## Technology Stack
 
 - **Django:**  
