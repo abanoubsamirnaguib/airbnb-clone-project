@@ -55,3 +55,25 @@ These technologies work together to create a robust, scalable, and maintainable 
 Each role collaborates closely to deliver a secure, scalable, and feature-rich Airbnb clone.
 
 This project encourages best practices in software engineering, focusing on scalability, security, and teamwork.
+
+## Main Features
+
+- **User Management:**  
+  Handles user registration, authentication, and profile management. This feature ensures secure access to the platform and allows users to manage their personal information, bookings, and listings.
+
+- **Property Management:**  
+  Enables hosts to list, update, and manage their properties, including details like descriptions, photos, pricing, and availability. This feature is essential for building a diverse and dynamic marketplace of rental options.
+
+- **Booking System:**  
+  Allows users to search for available properties, make reservations, and manage their bookings. It ensures a seamless experience for both guests and hosts by handling availability, payment processing, and booking confirmations.
+
+- **Search and Filtering:**  
+  Provides users with advanced search capabilities, including filtering by location, price, amenities, and dates. This feature enhances user experience by helping guests quickly find properties that match their preferences.
+
+- **Review and Rating System:**  
+  Lets guests leave reviews and ratings for properties and hosts after their stay. This builds trust within the community and helps maintain high standards for listings.
+
+- **Payment Integration:**  
+  Facilitates secure online payments for bookings, supporting multiple payment methods. This feature is crucial for smooth financial transactions between guests and hosts.
+
+Each feature is designed to deliver a comprehensive, user-friendly, and secure experience, closely mirroring the core functionalities of the
