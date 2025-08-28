@@ -10,13 +10,27 @@ The Airbnb Clone Project is a full-stack web application designed to replicate t
 - Integrate CI/CD pipelines for efficient and reliable deployment.
 - Document and plan complex software projects effectively.
 
-## Tech Stack
-- **Backend Framework:** Django
-- **Database:** MySQL
-- **API:** GraphQL
-- **Containerization:** Docker
-- **CI/CD:** GitHub Actions (or similar platforms)
-- **Version Control:** Git & GitHub
+## Technology Stack
+
+- **Django:**  
+  A high-level Python web framework used to build the backend of the application, manage business logic, and handle API requests.
+
+- **MySQL:**  
+  A relational database management system used to store and manage application data securely and efficiently.
+
+- **GraphQL:**  
+  A query language for APIs that enables flexible and efficient data retrieval between the frontend and backend.
+
+- **Docker:**  
+  A containerization platform that packages the application and its dependencies, ensuring consistency across development and production environments.
+
+- **GitHub Actions:**  
+  A CI/CD tool used to automate testing, building, and deployment processes for the project.
+
+- **Git & GitHub:**  
+  Version control tools used for source code management and team collaboration.
+
+These technologies work together to create a robust, scalable, and maintainable Airbnb clone.
 
 ## Team Roles
 
