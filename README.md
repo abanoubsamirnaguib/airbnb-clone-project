@@ -137,4 +137,4 @@ Implementing these security measures is vital for safeguarding user data, mainta
 
 Continuous Integration and Continuous Deployment (CI/CD) pipelines are automated workflows that streamline the process of building, testing, and deploying code changes. By automatically running tests and deploying updates whenever new code is pushed to the repository, CI/CD pipelines help catch errors early, reduce manual intervention, and ensure that the application remains stable and reliable.
 
-For this project, tools such as **GitHub Actions** can be used to automate testing and deployment processes, while **Docker** ensures consistent environments across development, testing, and production. Implementing a CI/CD pipeline increases development efficiency, minimizes deployment risks, and accelerates the delivery of new features
+For this project, tools such as **GitHub Actions** can be used to automate testing and deployment processes, while **Docker** ensures consistent environments across development, testing, and production. Implementing a CI/CD pipeline increases development efficiency, minimizes deployment risks, and accelerates the delivery of new features.
